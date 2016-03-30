@@ -8,8 +8,12 @@
 -More details: see Sample
 
 Dependencies:
+
 jsoncpp
 
+
 Usage:
+
 python ajson.py yourname.json
+
 include "yourname.h" and use corresponding cpp codes to get JSON data
